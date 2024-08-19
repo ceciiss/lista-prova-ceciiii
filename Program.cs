@@ -36,3 +36,6 @@ q2
         int idade = int.Parse(Console.ReadLine());
 
         Console.WriteLine($"Olá, {nome}, você tem {idade} anos.");
+ 
+ //oii
+ 
